@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1547469626 source:e:\uz\podstprogr\podstawyprogramowania-lab\lista 10\lab11_zad5(game v1.1)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<windows.h>
+
