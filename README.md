@@ -1,3 +1,3 @@
 # TicTacToe
-TicTacToe game written for class.
+Console fersion of TicTacToe game written for class.
 It lacks hard AI (minimax). Maybe one day...
